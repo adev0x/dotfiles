@@ -1,0 +1,25 @@
+[user]
+    name = himalaya0x
+
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+    lg = log --oneline --graph --decorate -20
+    last = log -1 HEAD
+    unstage = reset HEAD --
+
+[core]
+    editor = vim
+    autocrlf = input
+    whitespace = fix
+
+[pull]
+    rebase = true
+
+[init]
+    defaultBranch = main
+
+[diff]
+    algorithm = histogram
