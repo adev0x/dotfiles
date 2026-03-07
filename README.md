@@ -243,3 +243,6 @@ MIT
 
 <!-- tweak vimrc (2026-03-06) -->
 
+
+<!-- add helper function (2026-03-06) -->
+
