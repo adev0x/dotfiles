@@ -246,3 +246,6 @@ MIT
 
 <!-- add helper function (2026-03-06) -->
 
+
+<!-- update tmux config (2026-03-06) -->
+
