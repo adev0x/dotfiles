@@ -306,3 +306,6 @@ MIT
 
 <!-- add helper function (2026-03-10) -->
 
+
+<!-- tweak vimrc (2026-03-10) -->
+
