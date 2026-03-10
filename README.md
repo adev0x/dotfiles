@@ -303,3 +303,6 @@ MIT
 
 <!-- update brewfile (2026-03-10) -->
 
+
+<!-- add helper function (2026-03-10) -->
+
