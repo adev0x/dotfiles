@@ -297,3 +297,6 @@ MIT
 
 <!-- update tmux config (2026-03-10) -->
 
+
+<!-- clean up config (2026-03-10) -->
+
