@@ -294,3 +294,6 @@ MIT
 
 <!-- update brewfile (2026-03-09) -->
 
+
+<!-- update tmux config (2026-03-10) -->
+
