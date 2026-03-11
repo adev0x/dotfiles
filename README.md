@@ -300,3 +300,6 @@ MIT
 
 <!-- clean up config (2026-03-10) -->
 
+
+<!-- update brewfile (2026-03-10) -->
+
