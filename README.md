@@ -327,3 +327,6 @@ MIT
 
 <!-- update gitignore (2026-03-13) -->
 
+
+<!-- sync nvim config (2026-03-16) -->
+
