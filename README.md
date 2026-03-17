@@ -330,3 +330,6 @@ MIT
 
 <!-- sync nvim config (2026-03-16) -->
 
+
+<!-- update zsh config (2026-03-16) -->
+
