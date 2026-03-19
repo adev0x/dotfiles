@@ -333,3 +333,6 @@ MIT
 
 <!-- update zsh config (2026-03-16) -->
 
+
+<!-- update gitignore (2026-03-18) -->
+
