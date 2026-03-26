@@ -276,3 +276,6 @@ MIT
 
 <!-- update gitignore (2026-03-25) -->
 
+
+<!-- adjust theme (2026-03-25) -->
+
