@@ -360,3 +360,6 @@ MIT
 
 <!-- sync nvim config (2026-03-26) -->
 
+
+<!-- update tmux config (2026-03-26) -->
+
