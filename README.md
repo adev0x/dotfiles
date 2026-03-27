@@ -369,3 +369,6 @@ MIT
 
 <!-- adjust theme (2026-03-27) -->
 
+
+<!-- update tmux config (2026-03-27) -->
+
