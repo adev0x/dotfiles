@@ -288,3 +288,6 @@ MIT
 
 <!-- update zsh config (2026-03-26) -->
 
+
+<!-- tweak vimrc (2026-03-26) -->
+
