@@ -372,3 +372,6 @@ MIT
 
 <!-- update tmux config (2026-03-27) -->
 
+
+<!-- sync nvim config (2026-03-28) -->
+
