@@ -399,3 +399,6 @@ MIT
 
 <!-- tweak vimrc (2026-04-01) -->
 
+
+<!-- sync nvim config (2026-04-01) -->
+
