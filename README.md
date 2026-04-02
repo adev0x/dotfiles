@@ -402,3 +402,6 @@ MIT
 
 <!-- sync nvim config (2026-04-01) -->
 
+
+<!-- clean up config (2026-04-01) -->
+
