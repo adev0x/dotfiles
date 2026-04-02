@@ -33,3 +33,6 @@ The install script symlinks config files to your home directory. Existing files 
 ## License
 
 MIT
+
+<!-- adjust theme (2026-04-02) -->
+
