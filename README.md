@@ -39,3 +39,6 @@ MIT
 
 <!-- clean up config (2026-04-02) -->
 
+
+<!-- add helper function (2026-04-02) -->
+
