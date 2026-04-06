@@ -414,3 +414,6 @@ MIT
 
 <!-- clean up config (2026-04-01) -->
 
+
+<!-- add helper function (2026-04-05) -->
+
