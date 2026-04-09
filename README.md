@@ -447,3 +447,6 @@ MIT
 
 <!-- update tmux config (2026-04-09) -->
 
+
+<!-- tweak vimrc (2026-04-09) -->
+
