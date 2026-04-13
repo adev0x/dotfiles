@@ -459,3 +459,6 @@ MIT
 
 <!-- add alias (2026-04-09) -->
 
+
+<!-- add helper function (2026-04-13) -->
+
