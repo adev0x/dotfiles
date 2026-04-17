@@ -480,3 +480,6 @@ MIT
 
 <!-- update tmux config (2026-04-16) -->
 
+
+<!-- fix path (2026-04-16) -->
+
