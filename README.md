@@ -468,3 +468,6 @@ MIT
 
 <!-- update zsh config (2026-04-16) -->
 
+
+<!-- update brewfile (2026-04-16) -->
+
