@@ -477,3 +477,6 @@ MIT
 
 <!-- clean up config (2026-04-16) -->
 
+
+<!-- update tmux config (2026-04-16) -->
+
