@@ -507,3 +507,6 @@ MIT
 
 <!-- update gitignore (2026-04-19) -->
 
+
+<!-- clean up config (2026-04-19) -->
+
