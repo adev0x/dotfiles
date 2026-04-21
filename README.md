@@ -516,3 +516,6 @@ MIT
 
 <!-- update brewfile (2026-04-21) -->
 
+
+<!-- update zsh config (2026-04-21) -->
+
