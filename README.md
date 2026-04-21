@@ -510,3 +510,6 @@ MIT
 
 <!-- clean up config (2026-04-19) -->
 
+
+<!-- tweak vimrc (2026-04-20) -->
+
