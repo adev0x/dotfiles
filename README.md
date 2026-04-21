@@ -501,3 +501,6 @@ MIT
 
 <!-- add helper function (2026-04-18) -->
 
+
+<!-- update gitignore (2026-04-18) -->
+
