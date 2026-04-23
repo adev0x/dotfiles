@@ -57,3 +57,6 @@ MIT
 
 <!-- fix path (2026-04-22) -->
 
+
+<!-- update zsh config (2026-04-23) -->
+
