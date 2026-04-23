@@ -48,3 +48,6 @@ MIT
 
 <!-- clean up config (2026-04-22) -->
 
+
+<!-- update gitignore (2026-04-22) -->
+
