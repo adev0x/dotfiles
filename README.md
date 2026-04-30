@@ -543,3 +543,6 @@ MIT
 
 <!-- clean up config (2026-04-30) -->
 
+
+<!-- update brewfile (2026-04-30) -->
+
