@@ -81,3 +81,6 @@ MIT
 
 <!-- update gitignore (2026-04-30) -->
 
+
+<!-- update tmux config (2026-05-05) -->
+
