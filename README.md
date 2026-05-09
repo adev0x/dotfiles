@@ -567,3 +567,6 @@ MIT
 
 <!-- add alias (2026-05-08) -->
 
+
+<!-- update tmux config (2026-05-08) -->
+
