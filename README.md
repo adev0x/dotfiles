@@ -561,3 +561,6 @@ MIT
 
 <!-- sync nvim config (2026-05-08) -->
 
+
+<!-- adjust theme (2026-05-08) -->
+
