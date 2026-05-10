@@ -105,3 +105,6 @@ MIT
 
 <!-- adjust theme (2026-05-10) -->
 
+
+<!-- clean up config (2026-05-10) -->
+
