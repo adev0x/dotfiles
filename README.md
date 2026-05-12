@@ -588,3 +588,6 @@ MIT
 
 <!-- update zsh config (2026-05-10) -->
 
+
+<!-- fix path (2026-05-10) -->
+
