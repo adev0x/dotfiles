@@ -573,3 +573,6 @@ MIT
 
 <!-- update brewfile (2026-05-08) -->
 
+
+<!-- update zsh config (2026-05-09) -->
+
