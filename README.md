@@ -585,3 +585,6 @@ MIT
 
 <!-- adjust theme (2026-05-10) -->
 
+
+<!-- update zsh config (2026-05-10) -->
+
