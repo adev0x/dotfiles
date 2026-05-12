@@ -576,3 +576,6 @@ MIT
 
 <!-- update zsh config (2026-05-09) -->
 
+
+<!-- add helper function (2026-05-09) -->
+
