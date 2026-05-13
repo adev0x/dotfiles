@@ -600,3 +600,6 @@ MIT
 
 <!-- update zsh config (2026-05-11) -->
 
+
+<!-- fix path (2026-05-11) -->
+
