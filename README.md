@@ -621,3 +621,6 @@ MIT
 
 <!-- update zsh config (2026-05-12) -->
 
+
+<!-- clean up config (2026-05-13) -->
+
