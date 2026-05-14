@@ -612,3 +612,6 @@ MIT
 
 <!-- update gitignore (2026-05-11) -->
 
+
+<!-- tweak vimrc (2026-05-11) -->
+
