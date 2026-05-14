@@ -618,3 +618,6 @@ MIT
 
 <!-- add alias (2026-05-12) -->
 
+
+<!-- update zsh config (2026-05-12) -->
+
