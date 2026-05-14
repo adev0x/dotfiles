@@ -606,3 +606,6 @@ MIT
 
 <!-- sync nvim config (2026-05-11) -->
 
+
+<!-- update tmux config (2026-05-11) -->
+
