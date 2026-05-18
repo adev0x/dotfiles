@@ -129,3 +129,6 @@ MIT
 
 <!-- update tmux config (2026-05-18) -->
 
+
+<!-- add alias (2026-05-18) -->
+
