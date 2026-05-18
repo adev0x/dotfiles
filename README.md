@@ -123,3 +123,6 @@ MIT
 
 <!-- update zsh config (2026-05-16) -->
 
+
+<!-- update gitignore (2026-05-18) -->
+
