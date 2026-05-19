@@ -639,3 +639,6 @@ MIT
 
 <!-- update gitignore (2026-05-17) -->
 
+
+<!-- update zsh config (2026-05-17) -->
+
