@@ -636,3 +636,6 @@ MIT
 
 <!-- fix path (2026-05-16) -->
 
+
+<!-- update gitignore (2026-05-17) -->
+
