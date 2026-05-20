@@ -135,3 +135,6 @@ MIT
 
 <!-- update tmux config (2026-05-19) -->
 
+
+<!-- fix path (2026-05-19) -->
+
