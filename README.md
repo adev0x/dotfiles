@@ -645,3 +645,6 @@ MIT
 
 <!-- update brewfile (2026-05-17) -->
 
+
+<!-- update brewfile (2026-05-20) -->
+
