@@ -666,3 +666,6 @@ MIT
 
 <!-- clean up config (2026-05-25) -->
 
+
+<!-- add helper function (2026-05-25) -->
+
