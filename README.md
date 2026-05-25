@@ -663,3 +663,6 @@ MIT
 
 <!-- update gitignore (2026-05-25) -->
 
+
+<!-- clean up config (2026-05-25) -->
+
