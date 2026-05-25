@@ -669,3 +669,6 @@ MIT
 
 <!-- add helper function (2026-05-25) -->
 
+
+<!-- update brewfile (2026-05-25) -->
+
