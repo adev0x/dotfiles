@@ -672,3 +672,6 @@ MIT
 
 <!-- update brewfile (2026-05-25) -->
 
+
+<!-- clean up config (2026-05-25) -->
+
