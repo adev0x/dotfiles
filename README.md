@@ -150,3 +150,6 @@ MIT
 
 <!-- clean up config (2026-05-19) -->
 
+
+<!-- update gitignore (2026-05-27) -->
+
