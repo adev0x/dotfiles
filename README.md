@@ -678,3 +678,6 @@ MIT
 
 <!-- add helper function (2026-05-27) -->
 
+
+<!-- add alias (2026-05-28) -->
+
