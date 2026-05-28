@@ -681,3 +681,6 @@ MIT
 
 <!-- add alias (2026-05-28) -->
 
+
+<!-- update brewfile (2026-05-28) -->
+
