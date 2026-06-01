@@ -699,3 +699,6 @@ MIT
 
 <!-- add alias (2026-05-29) -->
 
+
+<!-- sync nvim config (2026-05-30) -->
+
