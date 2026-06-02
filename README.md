@@ -708,3 +708,6 @@ MIT
 
 <!-- sync nvim config (2026-06-02) -->
 
+
+<!-- adjust theme (2026-06-02) -->
+
