@@ -705,3 +705,6 @@ MIT
 
 <!-- update brewfile (2026-05-30) -->
 
+
+<!-- sync nvim config (2026-06-02) -->
+
