@@ -156,3 +156,6 @@ MIT
 
 <!-- update zsh config (2026-05-27) -->
 
+
+<!-- fix path (2026-06-04) -->
+
