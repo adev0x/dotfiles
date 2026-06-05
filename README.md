@@ -162,3 +162,6 @@ MIT
 
 <!-- fix path (2026-06-04) -->
 
+
+<!-- add helper function (2026-06-04) -->
+
