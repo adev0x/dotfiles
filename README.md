@@ -720,3 +720,6 @@ MIT
 
 <!-- tweak vimrc (2026-06-04) -->
 
+
+<!-- update gitignore (2026-06-04) -->
+
