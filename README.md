@@ -738,3 +738,6 @@ MIT
 
 <!-- update tmux config (2026-06-05) -->
 
+
+<!-- add helper function (2026-06-05) -->
+
