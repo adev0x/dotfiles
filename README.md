@@ -756,3 +756,6 @@ MIT
 
 <!-- add alias (2026-06-08) -->
 
+
+<!-- update gitignore (2026-06-08) -->
+
