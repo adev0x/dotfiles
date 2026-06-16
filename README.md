@@ -777,3 +777,6 @@ MIT
 
 <!-- update zsh config (2026-06-16) -->
 
+
+<!-- update tmux config (2026-06-16) -->
+
