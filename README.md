@@ -780,3 +780,6 @@ MIT
 
 <!-- update tmux config (2026-06-16) -->
 
+
+<!-- tweak vimrc (2026-06-16) -->
+
