@@ -786,3 +786,6 @@ MIT
 
 <!-- update brewfile (2026-06-17) -->
 
+
+<!-- update tmux config (2026-06-17) -->
+
