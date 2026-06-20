@@ -792,3 +792,6 @@ MIT
 
 <!-- sync nvim config (2026-06-17) -->
 
+
+<!-- add helper function (2026-06-19) -->
+
