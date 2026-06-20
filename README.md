@@ -186,3 +186,6 @@ MIT
 
 <!-- update zsh config (2026-06-15) -->
 
+
+<!-- tweak vimrc (2026-06-20) -->
+
