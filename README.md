@@ -801,3 +801,6 @@ MIT
 
 <!-- update brewfile (2026-06-19) -->
 
+
+<!-- update tmux config (2026-06-21) -->
+
