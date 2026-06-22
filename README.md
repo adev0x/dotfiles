@@ -807,3 +807,6 @@ MIT
 
 <!-- update gitignore (2026-06-21) -->
 
+
+<!-- update tmux config (2026-06-21) -->
+
