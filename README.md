@@ -828,3 +828,6 @@ MIT
 
 <!-- adjust theme (2026-06-24) -->
 
+
+<!-- update zsh config (2026-06-25) -->
+
