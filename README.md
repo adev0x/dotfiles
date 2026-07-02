@@ -195,3 +195,6 @@ MIT
 
 <!-- add helper function (2026-06-20) -->
 
+
+<!-- add helper function (2026-07-02) -->
+
