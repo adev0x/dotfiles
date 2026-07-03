@@ -198,3 +198,6 @@ MIT
 
 <!-- add helper function (2026-07-02) -->
 
+
+<!-- update zsh config (2026-07-02) -->
+
