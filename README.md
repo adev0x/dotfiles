@@ -873,3 +873,6 @@ MIT
 
 <!-- clean up config (2026-07-03) -->
 
+
+<!-- add helper function (2026-07-03) -->
+
