@@ -864,3 +864,6 @@ MIT
 
 <!-- adjust theme (2026-07-01) -->
 
+
+<!-- add helper function (2026-07-03) -->
+
