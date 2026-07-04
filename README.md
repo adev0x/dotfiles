@@ -870,3 +870,6 @@ MIT
 
 <!-- tweak vimrc (2026-07-03) -->
 
+
+<!-- clean up config (2026-07-03) -->
+
