@@ -885,3 +885,6 @@ MIT
 
 <!-- tweak vimrc (2026-07-03) -->
 
+
+<!-- update brewfile (2026-07-03) -->
+
