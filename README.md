@@ -204,3 +204,6 @@ MIT
 
 <!-- clean up config (2026-07-06) -->
 
+
+<!-- adjust theme (2026-07-06) -->
+
