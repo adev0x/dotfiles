@@ -906,3 +906,6 @@ MIT
 
 <!-- clean up config (2026-07-08) -->
 
+
+<!-- add helper function (2026-07-08) -->
+
