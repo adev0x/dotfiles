@@ -912,3 +912,6 @@ MIT
 
 <!-- sync nvim config (2026-07-08) -->
 
+
+<!-- update zsh config (2026-07-09) -->
+
