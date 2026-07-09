@@ -909,3 +909,6 @@ MIT
 
 <!-- add helper function (2026-07-08) -->
 
+
+<!-- sync nvim config (2026-07-08) -->
+
