@@ -915,3 +915,6 @@ MIT
 
 <!-- update zsh config (2026-07-09) -->
 
+
+<!-- clean up config (2026-07-09) -->
+
