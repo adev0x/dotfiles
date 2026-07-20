@@ -225,3 +225,6 @@ MIT
 
 <!-- fix path (2026-07-17) -->
 
+
+<!-- update zsh config (2026-07-17) -->
+
