@@ -954,3 +954,6 @@ MIT
 
 <!-- update gitignore (2026-07-17) -->
 
+
+<!-- add helper function (2026-07-17) -->
+
