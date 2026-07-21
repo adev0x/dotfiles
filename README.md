@@ -222,3 +222,6 @@ MIT
 
 <!-- update tmux config (2026-07-17) -->
 
+
+<!-- fix path (2026-07-17) -->
+
