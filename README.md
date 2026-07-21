@@ -942,3 +942,6 @@ MIT
 
 <!-- update zsh config (2026-07-16) -->
 
+
+<!-- update brewfile (2026-07-16) -->
+
