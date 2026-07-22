@@ -972,3 +972,6 @@ MIT
 
 <!-- tweak vimrc (2026-07-21) -->
 
+
+<!-- update tmux config (2026-07-22) -->
+
