@@ -963,3 +963,6 @@ MIT
 
 <!-- update zsh config (2026-07-17) -->
 
+
+<!-- clean up config (2026-07-21) -->
+
