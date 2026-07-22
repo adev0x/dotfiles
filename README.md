@@ -939,3 +939,6 @@ MIT
 
 <!-- fix path (2026-07-15) -->
 
+
+<!-- update zsh config (2026-07-16) -->
+
