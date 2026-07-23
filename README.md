@@ -993,3 +993,6 @@ MIT
 
 <!-- update gitignore (2026-07-23) -->
 
+
+<!-- add alias (2026-07-23) -->
+
