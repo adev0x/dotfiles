@@ -1011,3 +1011,6 @@ MIT
 
 <!-- update gitignore (2026-07-24) -->
 
+
+<!-- update zsh config (2026-07-24) -->
+
