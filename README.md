@@ -1017,3 +1017,6 @@ MIT
 
 <!-- update brewfile (2026-07-24) -->
 
+
+<!-- sync nvim config (2026-07-27) -->
+
