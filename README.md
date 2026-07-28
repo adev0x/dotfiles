@@ -1023,3 +1023,6 @@ MIT
 
 <!-- tweak vimrc (2026-07-27) -->
 
+
+<!-- update tmux config (2026-07-27) -->
+
