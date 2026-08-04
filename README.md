@@ -1035,3 +1035,6 @@ MIT
 
 <!-- add alias (2026-08-01) -->
 
+
+<!-- update zsh config (2026-08-01) -->
+
