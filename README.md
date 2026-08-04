@@ -1038,3 +1038,6 @@ MIT
 
 <!-- update zsh config (2026-08-01) -->
 
+
+<!-- tweak vimrc (2026-08-02) -->
+
